@@ -1,0 +1,7 @@
+C:\Users\Root\source\repos\IkariamBot\IkariamBot\bin\Debug\IkariamBot.exe.config
+C:\Users\Root\source\repos\IkariamBot\IkariamBot\bin\Debug\IkariamBot.exe
+C:\Users\Root\source\repos\IkariamBot\IkariamBot\bin\Debug\IkariamBot.pdb
+C:\Users\Root\source\repos\IkariamBot\IkariamBot\obj\Debug\IkariamBot.csprojAssemblyReference.cache
+C:\Users\Root\source\repos\IkariamBot\IkariamBot\obj\Debug\IkariamBot.csproj.CoreCompileInputs.cache
+C:\Users\Root\source\repos\IkariamBot\IkariamBot\obj\Debug\IkariamBot.exe
+C:\Users\Root\source\repos\IkariamBot\IkariamBot\obj\Debug\IkariamBot.pdb
